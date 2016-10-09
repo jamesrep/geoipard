@@ -1,0 +1,2 @@
+/* James 2016 - visit https://www.wallparse.com for more free tools and happy coding... */ 
+ function getLocations() {var locations = [['United States - California - Mountain View', 37.386, -122.0838,'8.8.8.8 ']]; return locations; }
